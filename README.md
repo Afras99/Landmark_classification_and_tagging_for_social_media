@@ -1,5 +1,5 @@
-# Deep Learning Nanodegree
-# Deep Learning
+# Udacity Machine Learning Fundamentals Nanodegree
+
 ## Project: Landmark Classification & Tagging for Social Media
 
 Project for Udacity's Deep Learning Nanodegree program. In this project, I developed a deep learning model using Pytorch to detect and classify landmarks.
@@ -49,5 +49,3 @@ The landmark images used for this project are a subset of the Google Landmarks D
 
 You can find license information for the full dataset [on Kaggle](https://www.kaggle.com/google/google-landmarks-dataset).
 
-### Certification
-<p align="middle"><a href="https://github.com/Omar-Al-Khathlan/Landmark-Classification-Tagging-for-Social-Media/blob/main/Certificate/Omar%20Al%20Khathlan%20-%20Udacity%20Certificate%20(Deep%20Learning).pdf"><img src="https://github.com/Omar-Al-Khathlan/Landmark-Classification-Tagging-for-Social-Media/blob/main/Certificate/Omar%20Al%20Khathlan%20-%20Udacity%20Certificate%20(Deep%20Learning).png"/></a></p>
